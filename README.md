@@ -1,5 +1,5 @@
 
-### Olá! eu sou o Kayo Weiber 🙋
+### Olá! eu sou o **Kayo Weiber** 🙋
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/kayo-weiber-134067280/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayo_weiber/)
 
