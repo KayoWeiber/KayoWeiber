@@ -3,9 +3,10 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/kayo-weiber-134067280/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayo_weiber/)
 
-![KayoWeiber GitHub stats](https://github-readme-stats.vercel.app/api?username=KayoWeiber&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayoWeiber&hide_progress=true)
+<div align="center" style="margin-bottom:100px">
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kayoweiber&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoweiber&show_icons=true&theme=dracula&layout=compact" />
+</div>
 
 ## Tecnologias que eu uso no dia a dia
 <div style="display:inline_block"><br/>
