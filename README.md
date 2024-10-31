@@ -44,4 +44,4 @@ Sempre em busca de novos desafios e oportunidades para expandir meu conhecimento
 &nbsp;
 &nbsp;
 
-Como estudante de programação, cada linha de código é uma oportunidade de aprender e evoluir; com dedicação constante, o progresso é inevitável.
+Como estudante de programação, cada linha de código é uma oportunidade de aprender e evoluir, com dedicação constante, o progresso é inevitável.
