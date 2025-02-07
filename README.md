@@ -2,7 +2,6 @@
 Estudante de desenvolvimento full-stack, possuo habilidades em Python, HTML, CSS, JavaScript, Node JS, TypeScript e ReactJS. Tenho experiência com bancos de dados como MySQL, PostrenSQL e MongoDB, além de versionamento com Git e GitHub. Sou apaixonado por resolver problemas complexos e busco oportunidades em empresas que valorizam a inovação e o aprendizado contínuo. Estou pronto para contribuir em projetos desafiadores que demandem colaboração e criatividade. 
 
 <div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kayoweiber&theme=dracula&mode=weekly" />
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoweiber&show_icons=true&theme=dracula&layout=compact" />
 </div>
 
