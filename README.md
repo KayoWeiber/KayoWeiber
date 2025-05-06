@@ -1,6 +1,5 @@
-## Olá, sou Kayo Weiber 👋
-Estudante de desenvolvimento full-stack, possuo habilidades em Python, HTML, CSS, JavaScript, Node JS, TypeScript e ReactJS. Tenho experiência com bancos de dados como MySQL, postgresql e MongoDB, além de versionamento com Git e GitHub. Sou apaixonado por resolver problemas complexos e busco oportunidades em empresas que valorizam a inovação e o aprendizado contínuo. Estou pronto para contribuir em projetos desafiadores que demandem colaboração e criatividade. 
-
+## Hi, I’m Kayo Weiber 👋
+I’m a full-stack developer with hands-on experience in  HTML, CSS, JavaScript, Node.js, TypeScript, python and ReactJS. I’ve worked with databases like MySQL, PostgreSQL, and MongoDB, and I’m comfortable using Git and GitHub for version control. I’m passionate about solving complex problems and always eager to learn and innovate. I’m looking for opportunities where I can grow, collaborate, and contribute to meaningful and challenging projects.
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoweiber&show_icons=true&theme=dracula&layout=compact" />
 </div>
@@ -53,4 +52,4 @@ Estudante de desenvolvimento full-stack, possuo habilidades em Python, HTML, CSS
 &nbsp;
 &nbsp;
 
-Como estudante de programação, cada linha de código é uma oportunidade de aprender e evoluir, com dedicação constante, o progresso é inevitável.
+As a developer, I see every line of code as a chance to deliver real value. With focus and consistency, growth isn’t just possible — it’s inevitable.
