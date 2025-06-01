@@ -1,5 +1,5 @@
 ## Hi, I’m Kayo Weiber 👋
-I’m a full-stack developer with hands-on experience in  HTML, CSS, JavaScript, Node.js, TypeScript, python and ReactJS. I’ve worked with databases like MySQL, PostgreSQL, and MongoDB, and I’m comfortable using Git and GitHub for version control. I’m passionate about solving complex problems and always eager to learn and innovate. I’m looking for opportunities where I can grow, collaborate, and contribute to meaningful and challenging projects.
+I’m a versatile developer with experience in full-stack web development using JavaScript, TypeScript, Node.js, and React. I’ve worked with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, and I use Git for version control. Currently, I’m deepening my knowledge in object-oriented programming with C# and Java, focusing on software architecture, clean code, and scalable system design. I value adaptability and choose the right tools for each project.
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoweiber&show_icons=true&theme=dracula&layout=compact" />
 </div>
