@@ -1,5 +1,6 @@
 ## Hi, I’m Kayo Weiber 👋
-I’m a versatile developer with experience in full-stack web development using JavaScript, TypeScript, Node.js, and React. I have worked with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, and I use Git for version control. Currently, I’m deepening my knowledge in object-oriented programming with C# and Java, focusing on software architecture, clean code principles, and scalable system design. I value adaptability and always strive to choose the right tools for each project.
+I am a versatile developer with experience in full-stack web development using JavaScript, TypeScript, Node.js, and React. I have worked with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, and I use Git for version control.
+Currently, I work as a Development Assistant II at Cidade Imperial Brewery, mainly focusing on web development. At the same time, I’m deepening my knowledge in web development, object-oriented programming with C# and Java, with a strong focus on software architecture, clean code principles, and scalable system design. I value adaptability and always strive to choose the right tools for each project.
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoweiber&show_icons=true&theme=dracula&layout=compact" />
 </div>
